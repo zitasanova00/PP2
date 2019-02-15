@@ -1,0 +1,7 @@
+C:\Users\Админ\Desktop\gg2\week111\task111\bin\Debug\task111.exe.config
+C:\Users\Админ\Desktop\gg2\week111\task111\bin\Debug\task111.exe
+C:\Users\Админ\Desktop\gg2\week111\task111\bin\Debug\task111.pdb
+C:\Users\Админ\Desktop\gg2\week111\task111\obj\Debug\task111.csprojAssemblyReference.cache
+C:\Users\Админ\Desktop\gg2\week111\task111\obj\Debug\task111.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\gg2\week111\task111\obj\Debug\task111.exe
+C:\Users\Админ\Desktop\gg2\week111\task111\obj\Debug\task111.pdb
