@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZITA1", "ZITA1\ZITA1.csproj", "{9ED6299F-ADA4-482C-97D6-22BBC75019D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zita2", "zita2\zita2.csproj", "{3E31FFB6-2D9F-47E7-95D0-F8268FBA7F28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zita3", "zita3\zita3.csproj", "{8F667116-9972-4BEB-8AD5-228F8F553FC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zita4", "zita4\zita4.csproj", "{F113B1CB-69DE-4CED-BBEC-5D07719C6994}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ED6299F-ADA4-482C-97D6-22BBC75019D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ED6299F-ADA4-482C-97D6-22BBC75019D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ED6299F-ADA4-482C-97D6-22BBC75019D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ED6299F-ADA4-482C-97D6-22BBC75019D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E31FFB6-2D9F-47E7-95D0-F8268FBA7F28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E31FFB6-2D9F-47E7-95D0-F8268FBA7F28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E31FFB6-2D9F-47E7-95D0-F8268FBA7F28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E31FFB6-2D9F-47E7-95D0-F8268FBA7F28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F667116-9972-4BEB-8AD5-228F8F553FC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F667116-9972-4BEB-8AD5-228F8F553FC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F667116-9972-4BEB-8AD5-228F8F553FC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F667116-9972-4BEB-8AD5-228F8F553FC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F113B1CB-69DE-4CED-BBEC-5D07719C6994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F113B1CB-69DE-4CED-BBEC-5D07719C6994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F113B1CB-69DE-4CED-BBEC-5D07719C6994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F113B1CB-69DE-4CED-BBEC-5D07719C6994}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F1772DE-E2C0-45C5-AFD1-6F9D2C0F4FBC}
+	EndGlobalSection
+EndGlobal
